@@ -1,0 +1,5 @@
+{
+  "name": "AI Brochure Maker",
+  "description": "An AI-powered tool to generate professional brochures by combining a product image, a human model image, a background image, and advertising copy using the Gemini Nano Banana Image Editing Model.",
+  "requestFramePermissions": []
+}
